@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👨‍💻 Juan Camilo Velásquez
 
-<!--
-**KamiloVelasquez/KamiloVelasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer & Data Analyst
 
-Here are some ideas to get you started:
+🚀 Especializado en desarrollo backend, automatización y soluciones basadas en datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+* Java | Spring Boot | Node.js | React
+* SQL | Power BI | Python
+* APIs REST | ETL | Data Modeling
+
+## 🔥 Proyectos Destacados
+
+### ✈️ Airline Reservation System
+
+Sistema completo de reservas de vuelos con arquitectura fullstack
+👉 React + Node.js + MySQL
+
+### 💳 CrediSmart
+
+Simulador financiero con lógica de negocio y análisis de datos
+
+### 📊 Data Automation
+
+Automatización de procesos con Python + SQL
+
+## 📫 Contacto
+
+LinkedIn: [www.linkedin.com/in/juan-camilo-velasquez-y](http://www.linkedin.com/in/juan-camilo-velasquez-y)
